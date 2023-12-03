@@ -1,0 +1,51 @@
+margin: 0p padding:
+
+box-sizing: border-box;
+
+body
+
+display: flex;
+
+Justify-content: center;
+
+align-items: center; nun-height: 1eevh background whitesake
+
+fant-family: Verdana, Geneva, Tahoma, sans-serif;
+
+Delphit 100% width: 100%;
+
+text-align: center;
+
+font-size: 1.5em; color: #e94458:
+
+nargin: 15px
+
+width: 100%
+
+height: 5px; display: fles;
+
+justify-content: center;
+
+margin-top: 5px;
+
+button ( position: absolute;
+
+width: 250px; height: inherit;
+
+colors witte: fant-stze: 1.2em;
+
+border-radius: 3 outline: none;
+
+cursor: printer
+
+bos-shadow: 6 2px 4px gray border: 2px s
+
+font-size: 1.2em;
+
+buttoninth chalet1) ( nargin-left: -200рк
+
+background: #e94
+
+buttoninth-child(2) naruin-right: 200px;
+
+background: white; color: #e944581
